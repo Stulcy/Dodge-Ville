@@ -60,7 +60,7 @@ export default class Physics {
             }
         );
 
-        if (!isColliding) {
+        if (!isColliding || a.zadet === 1 || b.zadet === 1) {
             return;
         } else {
             if (
@@ -68,8 +68,21 @@ export default class Physics {
                 (b instanceof Projectile && a instanceof Camera)
             ) {
                 let health = document.getElementById("health");
-                health.value -= 100;
-                document.location.reload();
+                if (health.value > 0) {
+                    health.value -= 34;
+
+                    var audio = new Audio("au.mp3");
+                    audio.volume = 1;
+                    audio.play();
+                    if (a instanceof Projectile) {
+                        a.zadet = 1;
+                    } else {
+                        b.zadet = 1;
+                    }
+                    if (health.value < 1) {
+                        document.location.reload();
+                    }
+                }
             }
             if (a instanceof Projectile && b instanceof Projectile) {
                 return;

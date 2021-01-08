@@ -47,8 +47,8 @@ a.back:hover {
     -ms-transform: translate(-50%, -50%);
     background-color: rgb(34, 34, 34);
     color: white;
-    font-size: 86px;
-    padding: 70px 150px;
+    font-size: 60px;
+    padding: 50px 100px;
     border: none;
     cursor: pointer;
     border-radius: 300px;
@@ -58,15 +58,15 @@ a.back:hover {
 #h1 {
     position: absolute;
     left: 730px;
-    top: 180px;
+    top: 200px;
     font-size: 60px;
     font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
 #h2 {
     position: absolute;
-    left: 730px;
-    top: 245px;
+    left: 800px;
+    top: 275px;
     font-size: 60px;
     font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }

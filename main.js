@@ -6,6 +6,8 @@ import Camera from "./Camera.js";
 import SceneLoader from "./SceneLoader.js";
 import SceneBuilder from "./SceneBuilder.js";
 
+let state = false;
+
 export default class App extends Application {
     start() {
         const gl = this.gl;
@@ -61,12 +63,14 @@ export default class App extends Application {
         const dt = (this.time - this.startTime) * 0.0015;
         this.startTime = this.time;
 
-        if (this.camera) {
-            this.camera.update(dt);
-        }
+        if (state) {
+            if (this.camera) {
+                this.camera.update(dt);
+            }
 
-        if (this.physics) {
-            this.physics.update(dt);
+            if (this.physics) {
+                this.physics.update(dt);
+            }
         }
     }
 
@@ -95,6 +99,21 @@ export function restart() {
     x.style.display = "none";
     y.style.display = "none";
 
+    document.getElementById("btn").addEventListener("click", () => {
+        var audio = new Audio("Disenchantment.mp3");
+        audio.volume = 0.1;
+        audio.play();
+        var audio = new Audio("Welcome.mp3");
+        audio.volume = 0.4;
+        audio.play();
+        app.enableCamera();
+        document.getElementById("btn").style.display = "none";
+        state = true;
+        setTimeouts(x, y);
+    });
+}
+
+const setTimeouts = (x, y) => {
     setTimeout(function () {
         document.getElementById("h1").style.display = "none";
         document.getElementById("h2").style.display = "none";
@@ -165,18 +184,7 @@ export function restart() {
         x.style.display = "block";
         y.style.display = "none";
     }, 102000);
-
-    document.getElementById("btn").addEventListener("click", () => {
-        var audio = new Audio("Disenchantment.mp3");
-        audio.volume = 0.1;
-        audio.play();
-        var audio = new Audio("Welcome.mp3");
-        audio.volume = 0.4;
-        audio.play();
-        app.enableCamera();
-        document.getElementById("btn").style.display = "none";
-    });
-}
+};
 
 document.addEventListener("DOMContentLoaded", () => {
     restart();
