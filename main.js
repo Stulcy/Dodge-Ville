@@ -184,6 +184,10 @@ const setTimeouts = (x, y) => {
         x.style.display = "block";
         y.style.display = "none";
     }, 102000);
+    setTimeout(function () {
+        y.textContent = "GAME OVER";
+        y.style.display = "block";
+    }, 130000);
 };
 
 document.addEventListener("DOMContentLoaded", () => {

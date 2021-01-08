@@ -1935,6 +1935,32 @@
     "velocity": [0, -10, 0],
     "scale": [10, 10, 10],
     "rotation": [0, 0, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 1,
+    "aabb": {
+      "min": [-10, -10, -10],
+      "max": [10, 10, 10]
+    },
+    "translation": [-8, 2250, -8],
+    "velocity": [0, -10, 0],
+    "scale": [10, 10, 10],
+    "rotation": [0, 0, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 1,
+    "aabb": {
+      "min": [-10, -10, -10],
+      "max": [10, 10, 10]
+    },
+    "translation": [-8, 2250, -8],
+    "velocity": [0, -10, 0],
+    "scale": [10, 10, 10],
+    "rotation": [0, 0, 0]
   }
 
 
