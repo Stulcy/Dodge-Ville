@@ -1940,11 +1940,11 @@
 
   ],
   "textures": [
-    "../images/floor.png",
-    "../images/lava-texture.png",
-    "../images/trava.png",
-    "../images/summoner_2.png",
-    "../images/fire.jpg"
+    "images/floor.png",
+    "images/lava-texture.png",
+    "images/trava.png",
+    "images/summoner_2.png",
+    "images/fire.jpg"
   ],
   "meshes": [
     "./cube.json",
