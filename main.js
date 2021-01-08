@@ -100,6 +100,7 @@ export function restart() {
     y.style.display = "none";
 
     document.getElementById("btn").addEventListener("click", () => {
+        intro.pause();
         var audio = new Audio("Disenchantment.mp3");
         audio.volume = 0.1;
         audio.play();
@@ -189,7 +190,9 @@ const setTimeouts = (x, y) => {
         y.style.display = "block";
     }, 130000);
 };
-
+let intro = new Audio("RuneScape.mp3");
 document.addEventListener("DOMContentLoaded", () => {
+    intro.volume = 0.2;
+    intro.play();
     restart();
 });
