@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Main game</title>
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+    <script type="text/javascript" src="../../lib/gl-matrix-min.js"></script>
+    <script type="text/javascript" src="../../lib/dat.gui.min.js"></script>
+    <script type="module" src="main.js"></script>
+</head>
+<body>
+    <h1 id="health_bar">HEALTH BAR</h1>
+    <progress id="health" value="100" max="100" style="width: 12.35%;"></progress>
+    <h1 id="h1">W,A,S,D to move</h1>
+    <h1 id="h2">Dodge to survive</h1>
+    <h1 id="rounds">Round 1</h1>
+    <h1 id="rounds_big">Round 1</h1>
+    <button id="btn">LET'S GO</button>
+    <div class="fullscreen">
+        <canvas id="canvas"></canvas>
+    </div>
+</body>
+</html>

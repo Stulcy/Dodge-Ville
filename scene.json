@@ -1,0 +1,1954 @@
+{
+  "nodes": [
+    {
+      "type": "camera",
+      "translation": [-8, 0, -8],
+      "aabb": {
+        "min": [-0.5, -2, -0.5],
+        "max": [0.5, 1, 0.5]
+      },
+      "aspect": 1,
+      "fov": 1.5,
+      "near": 0.01,
+      "far": 28
+    },
+    {  
+      "type": "model",
+      "mesh": 0,
+      "texture": 3,
+      "aabb": {
+        "min": [-1, -0.1, -1],
+        "max": [1, 0.1, 1]
+      },
+      "translation": [-8, -3, -8],
+      "rotation": [0, 0, 0],
+      "scale": [10, 1, 10]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [3, -2, -5]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [3, -2, -7]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [3, -2, -9]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [3, -2, -11]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [3, -2, -13]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [3, -2, -15]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [3, -2, -17]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [3, -2, -3]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [3, -2, -1]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [3, -2, 1]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [-19, -2, -5]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [-19, -2, -7]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [-19, -2, -9]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [-19, -2, -11]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [-19, -2, -13]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [-19, -2, -15]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [-19, -2, -17]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [-19, -2, -3]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [-19, -2, -1]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [-19, -2, 1]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [-19, -2, 3]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [-17, -2, 3]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [-15, -2, 3]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [-13, -2, 3]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [-11, -2, 3]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [-9, -2, 3]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [-7, -2, 3]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [-5, -2, 3]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [-3, -2, 3]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [-1, -2, 3]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [1, -2, 3]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [3, -2, 3]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [-19, -2, -19]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [-17, -2, -19]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [-15, -2, -19]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [-13, -2, -19]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [-11, -2, -19]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [-9, -2, -19]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [-7, -2, -19]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [-5, -2, -19]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [-3, -2, -19]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [-1, -2, -19]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [1, -2, -19]
+    },
+    {
+      "type": "model",
+      "mesh": 0,
+      "texture": 0,
+      "aabb": {
+        "min": [-1, -1, -1],
+        "max": [1, 1, 1]
+      },
+      "translation": [3, -2, -19]
+    },
+    
+
+
+  
+    {
+      "type": "projectile",
+      "mesh": 0,
+      "texture": 4,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [-8, 0, 100],
+      "velocity": [0, 0, -8],
+      "scale": [0.5, 0.5, 0.5],
+      "rotation": [1, 1, 0]
+    },
+    {
+      "type": "projectile",
+      "mesh": 0,
+      "texture": 4,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [-11, 0, -200],
+      "velocity": [0, 0, 8],
+      "scale": [0.5, 0.5, 0.5],
+      "rotation": [1, 1, 0]
+    },
+    {
+      "type": "projectile",
+      "mesh": 0,
+      "texture": 4,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [300, 0, -5],
+      "velocity": [-8, 0, 0],
+      "scale": [0.5, 0.5, 0.5],
+      "rotation": [1, 1, 0]
+    },
+    {
+      "type": "projectile",
+      "mesh": 0,
+      "texture": 4,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [-400, 0, -10],
+      "velocity": [8, 0, 0],
+      "scale": [0.5, 0.5, 0.5],
+      "rotation": [1, 1, 0]
+    },
+    {
+      "type": "projectile",
+      "mesh": 0,
+      "texture": 4,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [-150, 0, -150],
+      "velocity": [10, 0, 10],
+      "scale": [0.5, 0.5, 0.5],
+      "rotation": [1, 1, 0]
+    },
+    {
+      "type": "projectile",
+      "mesh": 0,
+      "texture": 4,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [250, 0, 250],
+      "velocity": [-10, 0, -10],
+      "scale": [0.5, 0.5, 0.5],
+      "rotation": [1, 1, 0]
+    },
+    {
+      "type": "projectile",
+      "mesh": 0,
+      "texture": 4,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [-350, 0, 350],
+      "velocity": [10, 0, -10],
+      "scale": [0.5, 0.5, 0.5],
+      "rotation": [1, 1, 0]
+    },
+    {
+      "type": "projectile",
+      "mesh": 0,
+      "texture": 4,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [450, 0, -450],
+      "velocity": [-10, 0, 10],
+      "scale": [0.5, 0.5, 0.5],
+      "rotation": [1, 1, 0]
+    }
+
+
+
+
+
+
+    ,
+    {
+      "type": "projectile",
+      "mesh": 0,
+      "texture": 4,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [600, 0, -5],
+      "velocity": [-10, 0, 0],
+      "scale": [0.5, 0.5, 0.5],
+      "rotation": [1, 1, 0]
+    },
+    {
+      "type": "projectile",
+      "mesh": 0,
+      "texture": 4,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [620, 0, -8],
+      "velocity": [-10, 0, 0],
+      "scale": [0.5, 0.5, 0.5],
+      "rotation": [1, 1, 0]
+    }
+    ,
+    {
+      "type": "projectile",
+      "mesh": 0,
+      "texture": 4,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [-7, 0, -600],
+      "velocity": [0, 0, 10],
+      "scale": [0.5, 0.5, 0.5],
+      "rotation": [1, 1, 0]
+    },
+    {
+      "type": "projectile",
+      "mesh": 0,
+      "texture": 4,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [-4, 0, -650],
+      "velocity": [0, 0, 10],
+      "scale": [0.5, 0.5, 0.5],
+      "rotation": [1, 1, 0]
+    },
+    {
+      "type": "projectile",
+      "mesh": 0,
+      "texture": 4,
+      "aabb": {
+        "min": [-0.5, -0.5, -0.5],
+        "max": [0.5, 0.5, 0.5]
+      },
+      "translation": [1, 0, 660],
+      "velocity": [0, 0, -10],
+      "scale": [0.5, 0.5, 0.5],
+      "rotation": [1, 1, 0]
+    }
+  ,
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-670, 0, -6],
+    "velocity": [10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-600, 0, -14],
+    "velocity": [10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 1,
+    "aabb": {
+      "min": [-2, -2, -2],
+      "max": [2, 2, 2]
+    },
+    "translation": [1, 780, 1],
+    "velocity": [0, -10, 0],
+    "scale": [2, 2, 2],
+    "rotation": [1, 1, 0]
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  ,
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-880, 0, -8],
+    "velocity": [10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-960, 0, 0],
+    "velocity": [10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-1020, 0, -18],
+    "velocity": [10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-1100, 0, -11],
+    "velocity": [10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-1180, 0, -4],
+    "velocity": [10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-1260, 0, -9],
+    "velocity": [10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-1320, 0, -7],
+    "velocity": [10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  }
+
+
+
+
+  ,
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [900, 0, -3],
+    "velocity": [-10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [980, 0, -10],
+    "velocity": [-10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [1060, 0, -13],
+    "velocity": [-10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [1140, 0, 1],
+    "velocity": [-10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [1220, 0, -9],
+    "velocity": [-10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [1300, 0, -18],
+    "velocity": [-10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [1380, 0, 2],
+    "velocity": [-10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  }
+
+
+
+
+  ,
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-12, 0, 920],
+    "velocity": [0, 0, -10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-2, 0, 1000],
+    "velocity": [0, 0, -10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-8, 0, 1080],
+    "velocity": [0, 0, -10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-13, 0, 1160],
+    "velocity": [0, 0, -10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-4, 0, 1220],
+    "velocity": [0, 0, -10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-15, 0, 1300],
+    "velocity": [0, 0, -10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [0, 0, 1380],
+    "velocity": [0, 0, -10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  }
+
+
+
+
+  ,
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-10, 0, -940],
+    "velocity": [0, 0, 10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-6, 0, -1020],
+    "velocity": [0, 0, 10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-1, 0, 1100],
+    "velocity": [0, 0, 10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-11, 0, 1180],
+    "velocity": [0, 0, 10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [2, 0, 1240],
+    "velocity": [0, 0, 10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-14, 0, 1320],
+    "velocity": [0, 0, 10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-1, 0, 1400],
+    "velocity": [0, 0, 10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  }
+  
+  
+  
+  
+  
+  ,
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 1,
+    "aabb": {
+      "min": [-2, -2, -2],
+      "max": [2, 2, 2]
+    },
+    "translation": [1, 1440, -17],
+    "velocity": [0, -10, 0],
+    "scale": [2, 2, 2],
+    "rotation": [1, 3, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 1,
+    "aabb": {
+      "min": [-2, -2, -2],
+      "max": [2, 2, 2]
+    },
+    "translation": [-17, 1460, -17],
+    "velocity": [0, -10, 0],
+    "scale": [2, 2, 2],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 1,
+    "aabb": {
+      "min": [-2, -2, -2],
+      "max": [2, 2, 2]
+    },
+    "translation": [-17, 1480, 1],
+    "velocity": [0, -10, 0],
+    "scale": [2, 2, 2],
+    "rotation": [1, 3, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 1,
+    "aabb": {
+      "min": [-1.5, -1.5, -1.5],
+      "max": [1.5, 1.5, 1.5]
+    },
+    "translation": [-8, 1500, -8],
+    "velocity": [0, -10, 0],
+    "scale": [1.5, 1.5, 1.5],
+    "rotation": [1, 1, 0]
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ,
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-1600, 0, -8],
+    "velocity": [10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-1680, 0, 0],
+    "velocity": [10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-1760, 0, -18],
+    "velocity": [10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-1840, 0, -11],
+    "velocity": [10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-1920, 0, -4],
+    "velocity": [10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-2000, 0, -9],
+    "velocity": [10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-2080, 0, -7],
+    "velocity": [10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-1640, 0, -5],
+    "velocity": [10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-1720, 0, 1],
+    "velocity": [10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-1800, 0, -10],
+    "velocity": [10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-1880, 0, -1],
+    "velocity": [10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-1960, 0, -7],
+    "velocity": [10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-2040, 0, 2],
+    "velocity": [10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-2120, 0, -2],
+    "velocity": [10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  }
+
+
+
+
+
+
+  ,
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [1620, 0, -3],
+    "velocity": [-10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [1700, 0, -10],
+    "velocity": [-10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [1780, 0, -13],
+    "velocity": [-10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [1860, 0, 1],
+    "velocity": [-10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [1940, 0, -9],
+    "velocity": [-10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [2020, 0, -18],
+    "velocity": [-10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [2100, 0, 2],
+    "velocity": [-10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [1660, 0, -13],
+    "velocity": [-10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [1740, 0, -1],
+    "velocity": [-10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [1820, 0, -8],
+    "velocity": [-10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [1900, 0, 2],
+    "velocity": [-10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [1980, 0, -7],
+    "velocity": [-10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [2060, 0, -4],
+    "velocity": [-10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [2140, 0, -2],
+    "velocity": [-10, 0, 0],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  }
+
+
+
+
+
+
+  ,
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-12, 0, 1620],
+    "velocity": [0, 0, -10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-2, 0, 1700],
+    "velocity": [0, 0, -10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-8, 0, 1780],
+    "velocity": [0, 0, -10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-13, 0, 1860],
+    "velocity": [0, 0, -10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-4, 0, 1940],
+    "velocity": [0, 0, -10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-15, 0, 2020],
+    "velocity": [0, 0, -10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [0, 0, 2100],
+    "velocity": [0, 0, -10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [2, 0, 1660],
+    "velocity": [0, 0, -10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-6, 0, 1740],
+    "velocity": [0, 0, -10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-12, 0, 1820],
+    "velocity": [0, 0, -10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-17, 0, 1900],
+    "velocity": [0, 0, -10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-6, 0, 1980],
+    "velocity": [0, 0, -10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-1, 0, 2060],
+    "velocity": [0, 0, -10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-7, 0, 2140],
+    "velocity": [0, 0, -10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  }
+
+
+
+
+  ,
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-10, 0, -1640],
+    "velocity": [0, 0, 10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-6, 0, -1720],
+    "velocity": [0, 0, 10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-1, 0, -1800],
+    "velocity": [0, 0, 10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-11, 0, -1880],
+    "velocity": [0, 0, 10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [2, 0, -1960],
+    "velocity": [0, 0, 10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-14, 0, -2040],
+    "velocity": [0, 0, 10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-1, 0, -2120],
+    "velocity": [0, 0, 10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-1, 0, -1680],
+    "velocity": [0, 0, 10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-16, 0, -1760],
+    "velocity": [0, 0, 10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-11, 0, -1840],
+    "velocity": [0, 0, 10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [1, 0, -1920],
+    "velocity": [0, 0, 10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-7, 0, -2000],
+    "velocity": [0, 0, 10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-17, 0, -2080],
+    "velocity": [0, 0, 10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 4,
+    "aabb": {
+      "min": [-0.5, -0.5, -0.5],
+      "max": [0.5, 0.5, 0.5]
+    },
+    "translation": [-9, 0, -2160],
+    "velocity": [0, 0, 10],
+    "scale": [0.5, 0.5, 0.5],
+    "rotation": [1, 1, 0]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "type": "projectile",
+    "mesh": 0,
+    "texture": 1,
+    "aabb": {
+      "min": [-10, -10, -10],
+      "max": [10, 10, 10]
+    },
+    "translation": [-8, 2250, -8],
+    "velocity": [0, -10, 0],
+    "scale": [10, 10, 10],
+    "rotation": [0, 0, 0]
+  }
+
+
+  ],
+  "textures": [
+    "../images/floor.png",
+    "../images/lava-texture.png",
+    "../images/trava.png",
+    "../images/summoner_2.png",
+    "../images/fire.jpg"
+  ],
+  "meshes": [
+    "./cube.json",
+    "./pyramid.json",
+    "./floor.json"
+  ]
+}
